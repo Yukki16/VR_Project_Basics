@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca8bb3a0dbdad0945b5b0b4304d7e734
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 21649
+  packageName: Professional Darts
+  packageVersion: 2.0.1
+  assetPath: Assets/LowPolyProfessionalDarts/Prefabs/Boards/PREFAB_DartBoard_WHITE.prefab
+  uploadId: 605070

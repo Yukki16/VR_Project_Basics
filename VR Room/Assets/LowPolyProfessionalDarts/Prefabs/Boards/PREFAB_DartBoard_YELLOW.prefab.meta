@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d185bdad0c76de34f89443f5c3f4c6d4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 21649
+  packageName: Professional Darts
+  packageVersion: 2.0.1
+  assetPath: Assets/LowPolyProfessionalDarts/Prefabs/Boards/PREFAB_DartBoard_YELLOW.prefab
+  uploadId: 605070
